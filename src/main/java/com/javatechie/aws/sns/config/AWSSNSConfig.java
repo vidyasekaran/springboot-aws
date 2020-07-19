@@ -26,7 +26,7 @@ public class AWSSNSConfig {
                 .build();
     }
     
-    public void getSnsClient1() {
+    public void getSnsClient1231() {
     	System.out.println("Welcome");
     	
     }
