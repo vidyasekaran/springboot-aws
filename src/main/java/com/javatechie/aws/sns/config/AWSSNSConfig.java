@@ -25,4 +25,9 @@ public class AWSSNSConfig {
                         SECRET_KEY)))
                 .build();
     }
+    
+    public void getSnsClient1() {
+    	System.out.println("Welcome");
+    	
+    }
 }
