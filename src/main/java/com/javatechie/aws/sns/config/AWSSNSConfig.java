@@ -16,6 +16,7 @@ public class AWSSNSConfig {
     public static final String SECRET_KEY = "kfTw1HuqCELh2YeQD2WtymBqGVWg/+GTZQzOBZhH";
     public static final String ACCESS_KEY = "AKIAIZFF2PHJQ266TC5A";
 
+    //This comment is to test
     @Primary
     @Bean
     public AmazonSNSClient getSnsClient() {
